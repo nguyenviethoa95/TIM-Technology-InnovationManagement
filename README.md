@@ -1,5 +1,5 @@
 
-:pushpin: #Technology & Innovation Management 
+:pushpin: ##Technology & Innovation Management 
 WS 20/21 - Technical University Darmstadt 
 
 A list of basic concepts and definitions for each of the chapter, I used to review for my exam, hope this might help you :blush: 
